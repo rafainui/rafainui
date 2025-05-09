@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## 👋 Olá! Eu sou o Rafael
 
 🎯 Em transição de carreira para o Desenvolvimento Web  
